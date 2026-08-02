@@ -1,4 +1,4 @@
-# Assignment 2 - Java Constructors
+# Assignment 3 - Method Overloading and Static Members
 
 ## Name
 Puneet Lath
@@ -8,29 +8,24 @@ Object Oriented Programming (Java)
 
 ---
 
-# Exercise 1 - Student Class
+## Exercise 1 - Calculator Program
+**Program:** CalculatorDemo.java
 
-## Program
-StudentDemo.java
+**Concepts:**
+- Method Overloading
+- Static Variable
+- Static Method
 
-## Concepts Used
-- Default Constructor
-- Parameterized Constructor
-
-## Description
-This Java program demonstrates the use of default and parameterized constructors for initializing student name and roll number.
+**Description:** Demonstrates method overloading and uses a static variable to count calculations.
 
 ---
 
-# Exercise 2 - Mobile Phone Inventory System
+## Exercise 2 - Restaurant Billing Application
+**Program:** RestaurantBilling.java
 
-## Program
-MobileInventory.java
+**Concepts:**
+- Method Overloading
+- Static Variable
+- Static Method
 
-## Concepts Used
-- Default Constructor
-- Parameterized Constructor
-- Copy Constructor
-
-## Description
-This Java program demonstrates the use of default, parameterized, and copy constructors by creating mobile phone objects and duplicating an existing object using a copy constructor.
+**Description:** Demonstrates method overloading for billing and uses a static variable to count total orders.
