@@ -1,4 +1,4 @@
-# Assignment 3 - Method Overloading and Static Members
+# Assignment 4 - Wrapper Classes
 
 ## Name
 Puneet Lath
@@ -8,24 +8,26 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Calculator Program
-**Program:** CalculatorDemo.java
+## Exercise 1 - Student Marks Conversion
+
+**Program:** StudentMarks.java
 
 **Concepts:**
-- Method Overloading
-- Static Variable
-- Static Method
+- Wrapper Class
+- String to Integer Conversion
+- Integer.parseInt()
 
-**Description:** Demonstrates method overloading and uses a static variable to count calculations.
+**Description:** Converts student marks from String to Integer and calculates the total marks.
 
 ---
 
-## Exercise 2 - Restaurant Billing Application
-**Program:** RestaurantBilling.java
+## Exercise 2 - Employee Payroll System
+
+**Program:** EmployeePayroll.java
 
 **Concepts:**
-- Method Overloading
-- Static Variable
-- Static Method
+- Wrapper Class
+- String to Integer/Double Conversion
+- Validation
 
-**Description:** Demonstrates method overloading for billing and uses a static variable to count total orders.
+**Description:** Converts employee details using wrapper classes, validates salary values, and calculates the net salary.
