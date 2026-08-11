@@ -1,4 +1,4 @@
-# Assignment 7 - Inheritance and Interfaces
+# Assignment 8 - Super Keyword in Inheritance
 
 ## Name
 Puneet Lath
@@ -8,27 +8,26 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Shape Application
+## Exercise 1 - Employee and Manager
 
-**Program:** ShapeDemo.java
+**Program:** EmployeeManager.java
 
 **Concepts Used:**
 - Inheritance
-- `extends`
-- Method implementation
+- `super` keyword
+- Parent class members
 
-**Description:** Circle and Rectangle inherit from Shape and calculate their respective areas.
+**Description:** Manager accesses Employee details using the `super` keyword.
 
 ---
 
-## Exercise 2 - E-Commerce Product System
+## Exercise 2 - Vehicle Insurance System
 
-**Program:** ECommerceDemo.java
+**Program:** VehicleInsurance.java
 
 **Concepts Used:**
 - Inheritance
-- Interface
-- `implements`
-- Abstraction
+- `super` keyword
+- Parent class variables
 
-**Description:** Electronic, Clothing, and Grocery products implement a common Product interface and display their details.
+**Description:** Vehicle Insurance accesses parent Vehicle information using the `super` keyword.
