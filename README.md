@@ -1,4 +1,4 @@
-# Assignment 5 - ArrayList, Vector and StringBuffer
+# Assignment 6 - Inner and Anonymous Classes
 
 ## Name
 Puneet Lath
@@ -8,14 +8,14 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - To-Do List
-**Program:** TodoList.java
+## Exercise 1 - Vehicle
+**Program:** VehicleDemo.java
 
-**Description:** Uses ArrayList to store tasks and StringBuffer to display the task list.
+**Description:** Uses an inner class to display vehicle details and an anonymous class to perform an action.
 
 ---
 
-## Exercise 2 - Student Course Registration
-**Program:** StudentCourseRegistration.java
+## Exercise 2 - Food Delivery
+**Program:** FoodDeliveryDemo.java
 
-**Description:** Uses ArrayList to manage courses and StringBuffer to display the registered courses.
+**Description:** Uses an inner class to handle order details and an anonymous class to update delivery status.
