@@ -1,4 +1,4 @@
-# Assignment 6 - Inner and Anonymous Classes
+# Assignment 7 - Inheritance and Interfaces
 
 ## Name
 Puneet Lath
@@ -8,14 +8,27 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Vehicle
-**Program:** VehicleDemo.java
+## Exercise 1 - Shape Application
 
-**Description:** Uses an inner class to display vehicle details and an anonymous class to perform an action.
+**Program:** ShapeDemo.java
+
+**Concepts Used:**
+- Inheritance
+- `extends`
+- Method implementation
+
+**Description:** Circle and Rectangle inherit from Shape and calculate their respective areas.
 
 ---
 
-## Exercise 2 - Food Delivery
-**Program:** FoodDeliveryDemo.java
+## Exercise 2 - E-Commerce Product System
 
-**Description:** Uses an inner class to handle order details and an anonymous class to update delivery status.
+**Program:** ECommerceDemo.java
+
+**Concepts Used:**
+- Inheritance
+- Interface
+- `implements`
+- Abstraction
+
+**Description:** Electronic, Clothing, and Grocery products implement a common Product interface and display their details.
