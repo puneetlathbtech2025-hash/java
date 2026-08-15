@@ -1,4 +1,4 @@
-# Assignment 10 - Abstract Classes and Methods
+# Assignment 11 - Implementation of Interfaces
 
 ## Name
 Puneet Lath
@@ -8,28 +8,26 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Payment System
+## Exercise 1 - Printable Interface
 
-**Program:** PaymentDemo.java
+**Program:** PrintableDemo.java
 
 **Concepts Used:**
-- Abstract class
-- Abstract method
-- Inheritance
+- Interface
+- `implements`
 - Abstraction
 
-**Description:** Implements an abstract Payment class using Credit Card and UPI payment classes.
+**Description:** Implements the Printable interface in Student and Employee classes to display their details.
 
 ---
 
-## Exercise 2 - Food Order System
+## Exercise 2 - Switchable Interface
 
-**Program:** FoodOrderDemo.java
+**Program:** SwitchableDemo.java
 
 **Concepts Used:**
-- Abstract class
-- Abstract method
-- Inheritance
+- Interface
+- `implements`
 - Abstraction
 
-**Description:** Implements Dine-In and Take-Away orders to calculate and display the total bill.
+**Description:** Implements the Switchable interface in Light and Fan classes to display the device status.
