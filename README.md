@@ -1,33 +1,35 @@
-# Assignment 8 - Super Keyword in Inheritance
+# Assignment 9 - Final Keyword
 
 ## Name
+
 Puneet Lath
 
 ## Subject
+
 Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Employee and Manager
+## Exercise 1 - Bank Account
 
-**Program:** EmployeeManager.java
+**Program:** BankAccountDemo.java
 
 **Concepts Used:**
-- Inheritance
-- `super` keyword
-- Parent class members
 
-**Description:** Manager accesses Employee details using the `super` keyword.
+* `final` variable
+* Final account number
+
+**Description:** Demonstrates the use of a final account number that cannot be changed after initialization.
 
 ---
 
-## Exercise 2 - Vehicle Insurance System
+## Exercise 2 - Library Book Management
 
-**Program:** VehicleInsurance.java
+**Program:** LibraryBook.java
 
 **Concepts Used:**
-- Inheritance
-- `super` keyword
-- Parent class variables
 
-**Description:** Vehicle Insurance accesses parent Vehicle information using the `super` keyword.
+* `final` variable
+* Final ISBN
+
+**Description:** Demonstrates the use of a final ISBN that cannot be changed once assigned and displays the book details.
