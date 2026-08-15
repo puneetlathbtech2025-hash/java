@@ -1,35 +1,35 @@
-# Assignment 9 - Final Keyword
+# Assignment 10 - Abstract Classes and Methods
 
 ## Name
-
 Puneet Lath
 
 ## Subject
-
 Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Bank Account
+## Exercise 1 - Payment System
 
-**Program:** BankAccountDemo.java
+**Program:** PaymentDemo.java
 
 **Concepts Used:**
+- Abstract class
+- Abstract method
+- Inheritance
+- Abstraction
 
-* `final` variable
-* Final account number
-
-**Description:** Demonstrates the use of a final account number that cannot be changed after initialization.
+**Description:** Implements an abstract Payment class using Credit Card and UPI payment classes.
 
 ---
 
-## Exercise 2 - Library Book Management
+## Exercise 2 - Food Order System
 
-**Program:** LibraryBook.java
+**Program:** FoodOrderDemo.java
 
 **Concepts Used:**
+- Abstract class
+- Abstract method
+- Inheritance
+- Abstraction
 
-* `final` variable
-* Final ISBN
-
-**Description:** Demonstrates the use of a final ISBN that cannot be changed once assigned and displays the book details.
+**Description:** Implements Dine-In and Take-Away orders to calculate and display the total bill.
