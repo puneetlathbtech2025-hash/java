@@ -1,4 +1,4 @@
-# Assignment 11 - Implementation of Interfaces
+# Assignment 12 - User-Defined Packages
 
 ## Name
 Puneet Lath
@@ -8,26 +8,26 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - Printable Interface
+## Exercise 1 - College Management System
 
-**Program:** PrintableDemo.java
+**Program:** CollegeManagement.java
 
 **Concepts Used:**
-- Interface
-- `implements`
-- Abstraction
+- User-defined packages
+- Classes
+- `import`
 
-**Description:** Implements the Printable interface in Student and Employee classes to display their details.
+**Description:** Demonstrates a College Management System using separate student and faculty classes to display their details.
 
 ---
 
-## Exercise 2 - Switchable Interface
+## Exercise 2 - Library Management
 
-**Program:** SwitchableDemo.java
+**Program:** LibraryDemo.java
 
 **Concepts Used:**
-- Interface
-- `implements`
-- Abstraction
+- User-defined package
+- `import`
+- Classes
 
-**Description:** Implements the Switchable interface in Light and Fan classes to display the device status.
+**Description:** Demonstrates a library package containing a Book class to store and display book ID, title, author, and price.
