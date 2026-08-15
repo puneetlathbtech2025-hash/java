@@ -1,4 +1,4 @@
-# Assignment 12 - User-Defined Packages
+# Assignment 13 - File Handling
 
 ## Name
 Puneet Lath
@@ -8,26 +8,28 @@ Object Oriented Programming (Java)
 
 ---
 
-## Exercise 1 - College Management System
+## Exercise 1 - Employee Details
 
-**Program:** CollegeManagement.java
+**Program:** EmployeeFile.java
 
 **Concepts Used:**
-- User-defined packages
-- Classes
-- `import`
+- File Handling
+- FileWriter
+- FileReader
+- BufferedReader
 
-**Description:** Demonstrates a College Management System using separate student and faculty classes to display their details.
+**Description:** Writes employee details to a file and reads the details from the file for display.
 
 ---
 
-## Exercise 2 - Library Management
+## Exercise 2 - Patient Details
 
-**Program:** LibraryDemo.java
+**Program:** PatientFile.java
 
 **Concepts Used:**
-- User-defined package
-- `import`
-- Classes
+- File Handling
+- FileWriter
+- FileReader
+- BufferedReader
 
-**Description:** Demonstrates a library package containing a Book class to store and display book ID, title, author, and price.
+**Description:** Writes patient ID, name, age, and diagnosis to a file and reads the details from the file for display.
